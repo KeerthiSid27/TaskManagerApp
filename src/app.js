@@ -29,3 +29,6 @@ app.use((err, req, res, next) => {
     next(err);
   }
 });
+
+// Export the Express app
+module.exports = app;
