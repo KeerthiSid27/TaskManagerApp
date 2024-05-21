@@ -1,4 +1,18 @@
-### Overview of the Task Manager Application
+### Task Manager Application
+
+### README Table of Contents
+
+1. [Introduction](#introduction)
+2. [Features](#features)
+   - [Task Management](#task-management)
+   - [Security](#security)
+3. [Technology Stack](#technology-stack)
+4. [Deployment](#deployment)
+5. [Usage](#usage)
+   - [Local Development](#local-development)
+   - [Deployment to Netlify](#deployment-to-netlify)
+6. [Steps for Using the Application](#steps-for-using-the-application)
+7. [Conclusion](#conclusion)
 
 #### Introduction
 
