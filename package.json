@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.0",
+    "serverless-http": "^3.2.0"
+  },
+  "name": "taskmanagerapplication",
+  "version": "1.0.0",
+  "description": "Application to manage tasks in a project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "build": "echo 'No build step required'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keerthi OR",
+  "license": "ISC"
+}
